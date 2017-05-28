@@ -1,1 +1,1 @@
-# sparkrepo
+# sparkrepo for spark test projects
